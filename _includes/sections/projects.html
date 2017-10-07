@@ -6,6 +6,7 @@
         </div>
     </div>
     <div class="row">
+      {% if site.data.index.projects.length > 0 %}
         {% for project in site.data.index.projects %}
             {% assign loopindex = forloop.index | modulo: 2 %}
             {% if forloop.last %}
@@ -38,7 +39,12 @@
                   {% endif %}
               </div>
           </div>
+      }
       {% endfor %}
+      {% else %}
+        <h3 class='text-center' >Projects have not been uploaded yet. Coming soon.</h3>
+      {% endif %}
+
     </div>
 </div>
 <br>

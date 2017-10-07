@@ -16,29 +16,43 @@
   icon: fa-shopping-cart
 
 - name:
-    detail: Peter's Flooring and Paint
+    detail: Dev Bootcamp
     i18n: company_b
   desc:
-    detail: Description coming soon...
+    detail: 19-week intensive coding bootcamp that focuses on Ruby, JavaScript, Ruby on Rails, common JavaScript libraries, SQL, HTML and CSS, as well as pair programming, agile and test driven development.
     i18n: company_b_desc
   date:
-    detail: May 2013 - Oct. 2014
+    detail: Sept. 2014 - Feb. 2015
     i18n: company_b_date
   job:
-    detail: Marketing Director
+    detail: Web Developer Apprentice
     i18n: company_b_job
+  icon: fa-laptop
+
+- name:
+    detail: Peter's Flooring and Paint
+    i18n: company_c
+  desc:
+    detail: Created and maintained online marketing presence. Assist staff with computer and technical difficulties. Used Microsoft Office and other programs to create and format forms, presentations, spreadsheets, and advertisements.
+    i18n: company_c_desc
+  date:
+    detail: May 2013 - Oct. 2014
+    i18n: company_c_date
+  job:
+    detail: Marketing Director
+    i18n: company_c_job
   icon: fa-paint-brush 
 
 - name:
     detail: Malvern National Bank
-    i18n: company_c
+    i18n: company_d
   desc:
-    detail: Accurately and efficiently processed and recorded routine transactions for bank customers including cashing checks, accepting deposits and withdrawals, processing loan payments and money transfers. Promote and advise on the bank's products and services.
-    i18n: company_c_desc
+    detail: Provide service to bank customers by conducting appropriate transactions and meeting the needs of customers by referring them to appropriate departments in the bank.
+    i18n: company_d_desc
   date:
     detail: Jun. 2009 - Aug. 2012
-    i18n: company_c_date
+    i18n: company_d_date
   job:
     detail: Bank Teller
-    i18n: company_c_job
+    i18n: company_d_job
   icon: fa-usd
