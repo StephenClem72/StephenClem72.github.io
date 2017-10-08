@@ -15,11 +15,11 @@ author:  # change following line to your infomation.
   first_name: Stephen  # Be used at index page about me section.
   last_name: Clem  # Be used at index page about me section.
   avatar: /static/assets/img/landing/sc_profile.jpg  # upload your avatar at directory and edit it.
-  github_username: Stephenclem72  # Leave blank if you don't have now
-  linkedin_id: stephenclem # Leave blank if you don't have now
-  twitter_username: StephenClem72  # Leave blank if you don't have now
-  email: stevebclem@gmail.com  # Leave blank if you don't have now
-  desc: There Will be a decription here eventually... Just not today.  # Describe yourself.
+  github_username: Stephenclem72 
+  linkedin_id: stephenclem
+  twitter_username: StephenClem72 
+  email: stevebclem@gmail.com 
+  desc: I am a software engineer based out of Northwest Arkansas. I like building useful things that are useful to people. Some of my interests are running, biking, hiking, the internet, sitcoms, games (of any variety), and pitching ideas to my friends. If you would like to know more about me, don't hesitate to contact me!
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
